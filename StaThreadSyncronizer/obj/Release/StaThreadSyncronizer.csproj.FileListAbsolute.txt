@@ -1,7 +1,0 @@
-C:\Users\serrajil\source\repos\StaThreadSyncronizer\StaThreadSyncronizer\bin\Release\StaThreadSyncronizer.xml
-C:\Users\serrajil\source\repos\StaThreadSyncronizer\StaThreadSyncronizer\bin\Release\StaThreadSyncronizer.dll
-C:\Users\serrajil\source\repos\StaThreadSyncronizer\StaThreadSyncronizer\bin\Release\StaThreadSyncronizer.pdb
-C:\Users\serrajil\source\repos\StaThreadSyncronizer\StaThreadSyncronizer\obj\Release\StaThreadSyncronizer.csproj.CoreCompileInputs.cache
-C:\Users\serrajil\source\repos\StaThreadSyncronizer\StaThreadSyncronizer\obj\Release\StaThreadSyncronizer.dll
-C:\Users\serrajil\source\repos\StaThreadSyncronizer\StaThreadSyncronizer\obj\Release\StaThreadSyncronizer.pdb
-C:\Users\serrajil\source\repos\StaThreadSyncronizer\StaThreadSyncronizer\obj\Release\StaThreadSyncronizer.csprojAssemblyReference.cache
